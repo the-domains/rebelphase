@@ -1,0 +1,14 @@
+layout_spectrum: 0.9168372086714953
+typography_spectrum: 0.5882927740458399
+color:
+  brandStrength: 0.07321683340705931
+  lightness: 0.168263157363981
+  saturation: 0.7239145720377564
+  rhythmicContrast: 0.09798099170438945
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Rebelphase
