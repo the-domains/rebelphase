@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Rebelphase]]></title>
         <description><![CDATA[Rebelphase]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rebelphase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 02:35:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 02:35:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rebelphase/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Atmo Sfera Platterless Turntable Spins Vinyl in the Air]]></title>
+            <description><![CDATA[<article><h1>Atmo Sfera Platterless Turntable Spins Vinyl in the Air</h1><p>Chicago's Gramovox already defied gravity with their vertical Floating Record Player, and now Italian start-up Audio Deva offers their own "upside-down" take on a turntable. It eschews the basic design that has "remained the same for about a century."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e0e9422dc8b38aa4896d911f5d202f6/croprotate.jpg?cropheight=1162&cropwidth=1503&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F9fb337561fce986fe123f7a74eb6e8ea6a39834a.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/platterless-turntable-atmo-sfera-record-player-kickstarter</link>
+            <guid isPermaLink="false">b784b246-3970-47e2-9c46-cd0036932ff8</guid>
+            <pubDate>Tue, 28 Jun 2016 02:35:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
             <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
